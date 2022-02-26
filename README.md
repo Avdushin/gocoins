@@ -1,4 +1,8 @@
-![gocoins](logo.png)
+<center>
+    <img src="logo.png" />
+</center>
+
+
 
 # GOCOINS
 
@@ -6,7 +10,7 @@
 
 ### INSTALLING:
 
-```
+```text
 git clone https://github.com/Avdushin/gocoins
 cd gocoins
 ./install.sh
