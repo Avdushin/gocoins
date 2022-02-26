@@ -8,6 +8,8 @@
 
 #### Widget POLYBAR for monitoring the exchange rate against the ruble.
 
+#### ![demo](demo.png)
+
 ### INSTALLING:
 
 ```text
