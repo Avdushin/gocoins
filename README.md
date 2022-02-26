@@ -4,6 +4,14 @@
 
 #### Widget POLYBAR for monitoring the exchange rate against the ruble.
 
+### INSTALLING:
+
+```
+git clone https://github.com/Avdushin/gocoins
+cd gocoins
+./install.sh
+```
+
 ### USAGE:
 
 POLYBAR script `~/.config/polybar/config`
